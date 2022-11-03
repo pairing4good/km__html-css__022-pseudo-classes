@@ -10,14 +10,3 @@ The `index.html` file
 Resources:
 - https://www.w3schools.com/css/css_pseudo_classes.asp
 
-
-Add styling so that:
-
-hovering over the anchor will turn the anchor text purple
-
-initially the paragraph tooltip is not visible
-
-hovering over the "Hover over me." text will display the paragraph tooltip
-
-Resources:
-
